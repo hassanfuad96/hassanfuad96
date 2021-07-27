@@ -1,4 +1,4 @@
-Programming Language Agnostic. Cypherpunk. Mercenary Developer. Pure Computer Scientist.
+If you're co-founder or CEO, you have to do all kinds of tasks you might not want to do... If you don't do your chores, the company won't succeed... No task is too menial..
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=hassanfuad96&show_icons=true)
 
